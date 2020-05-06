@@ -1,0 +1,10 @@
+.head_text{
+    background-color: grey;
+    height: 100vh;
+    background-size: 100% auto;
+}
+.body_text{
+    color: blue;
+   text-align:center;
+
+}
